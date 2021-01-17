@@ -18,12 +18,11 @@
 
 .card-title {
   font-family: 'Courier New', Courier, monospace;
-  font-weight: 500;
+  font-weight: bold;
 }
 
 .card-text {
   font-family: 'Courier New', Courier, monospace;
-  font-weight: 500;
 }
 
 a {
@@ -57,4 +56,10 @@ a {
   box-sizing: border-box;
   display: block;
   list-style-position: inside;
+}
+
+.future {
+  font-family: OCR A Std, monospace;
+  font-size: 15px;
+  font-style: italic;
 }
