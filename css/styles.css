@@ -1,0 +1,28 @@
+.cover-photo {
+  width: 100%;
+  margin: 10px;
+  height: auto;
+  display: block;
+  align-items: center;
+  float: left;
+}
+
+.col-lg-3 {
+  background-color: #d33e28;
+  color: antiquewhite;
+}
+
+.sidebar-text {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.card-title {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
+
+.card-text {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+}
