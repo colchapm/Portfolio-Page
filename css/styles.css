@@ -48,7 +48,7 @@ a {
   float: left;
 }
 
-.interests {
+.supporting-text {
   font-family: 'Courier New', Courier, monospace;
   padding: 10px;
   background-color: lightgrey;
@@ -62,4 +62,8 @@ a {
   font-family: OCR A Std, monospace;
   font-size: 15px;
   font-style: italic;
+}
+
+.supporting-text a {
+  color: blue;
 }
