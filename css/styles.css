@@ -3,6 +3,7 @@
   margin: 10px;
   height: auto;
   display: block;
+  padding: 2px;
 }
 
 .col-lg-3 {
@@ -23,4 +24,37 @@
 .card-text {
   font-family: 'Courier New', Courier, monospace;
   font-weight: 500;
+}
+
+a {
+ color: antiquewhite;
+}
+
+.supporting-header {
+  padding: 20px;
+  border: grey;
+  border-width: 20px;
+  background-color: #d33e28;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  color: antiquewhite;
+}
+
+.supporting-image {
+  width: 500px;
+  margin: 10px;
+  height: auto;
+  display: block;
+  float: left;
+}
+
+.interests {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px;
+  background-color: lightgrey;
+  margin: 20px;
+  box-sizing: border-box;
+  display: block;
+  list-style-position: inside;
 }
