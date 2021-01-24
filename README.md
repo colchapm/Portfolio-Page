@@ -13,11 +13,13 @@
 
 ## Description
 
-This portfolio page will tell you a little bit about myself, my interests, why I chose to pursue programming with Epicodus, links to my recent projects while illustrating what I have learned in Git, HTML and CSS. 
+This portfolio page will tell you a little bit about myself, my interests, why I chose to pursue programming with Epicodus, and links to my recent projects while illustrating what I have learned in Git, HTML and CSS. 
 
 ## Setup/Installation Requirements
 
-No installation or setup required
+  1. Clone this repository to your desktop
+  2. Navigate to the top level of the directory
+  3. Open index.html in your browser 
 
 ## Link
 
@@ -31,4 +33,4 @@ This software is licensed under the MIT license
 
 ## Contact Information
 
-_{Add your contact information here.}_
+cchap14@gmail.com
